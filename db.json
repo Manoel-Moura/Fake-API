@@ -1,0 +1,79 @@
+{
+  "tarefas": [
+    {
+      "id": "1",
+      "texto": "Comprar pães",
+      "status": true
+    },
+    {
+      "id": "2",
+      "texto": "Lavar Louça",
+      "status": true
+    },
+    {
+      "id": "3",
+      "texto": "Lavar Roupa",
+      "status": false
+    },
+    {
+      "id": "2fe6",
+      "texto": "Pagar as contas",
+      "status": false
+    },
+    {
+      "id": "a1e8",
+      "texto": "Pagar as contas",
+      "status": false
+    },
+    {
+      "id": "0af3",
+      "texto": "Pagar as contas",
+      "status": false
+    },
+    {
+      "id": "f3ae",
+      "texto": "Pagar as contas",
+      "status": false
+    },
+    {
+      "id": "0102",
+      "texto": "Pagar as contas",
+      "status": false
+    },
+    {
+      "id": "bbea",
+      "texto": "Pagar as contas",
+      "status": false
+    },
+    {
+      "id": "c504",
+      "texto": "Pagar as contas",
+      "status": false
+    },
+    {
+      "id": "396b",
+      "texto": "Pagar as contas",
+      "status": false
+    },
+    {
+      "id": "b2cf",
+      "texto": "Pagar as contas",
+      "status": false
+    },
+    {
+      "id": "66b5",
+      "texto": "Pagar as contas",
+      "status": false
+    },
+    {
+      "id": "2b3e",
+      "texto": "Pagar as contas",
+      "status": false
+    },
+    {
+      "id": "c878",
+      "texto": "Pagar as contas",
+      "status": false
+    }
+  ]
+}
